@@ -10,7 +10,7 @@ To pinpoint the main drivers of customer attrition in a bank using data visualiz
 ---
 
 ## 📁 Dataset Information
-- **File Name:** `Bank_Churn.csv`
+- **File Name:** `Churn_Modeling.csv`
 - **Source:** Publicly available, simulated bank customer dataset
 - **Features:**
   - `CreditScore`
